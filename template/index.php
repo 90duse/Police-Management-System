@@ -31,7 +31,7 @@
             <div class="ps-lg-1">
               <div class="d-flex align-items-center justify-content-between">
                 <p class="mb-0 font-weight-medium me-3 buy-now-text"></p>
-                
+                <!-- this message is for testing  -->
             </div>
             <div class="d-flex align-items-center justify-content-between">
               <a href="#"><i class="mdi mdi-home me-3 text-white"></i></a>
